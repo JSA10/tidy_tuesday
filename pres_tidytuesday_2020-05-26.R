@@ -4,8 +4,8 @@ library(tidyverse)
 # I've referenced packages used in code below, but will need this for the
 # pipe operators - %>%
 
-# *** TL:DR - skip to end for code to build the final chart ***
-
+# can view thinking process and exploration here:
+#   https://github.com/JSA10/tidy_tuesday/blob/master/eda_tidytuesday_2020-05-26.R
 
 # Get the data ------------------------------------------------------------
 
